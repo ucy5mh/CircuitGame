@@ -9,10 +9,14 @@ Use the user interface to select wires and place them on the checkerboard grid. 
 You can rotate wires by clicking on a cell with the same wire selected. (The UI elements are highlighted in green to indicate which object/option is selected)
 
 Logic Gates:
-- AND: Takes in two input wires and outputs a power signal if both input wires are on
-- OR: Takes in two input wires and outputs a power signal if at least one input wire is on
-- XOR: Takes in two input wires and outputs a power signal if only one input signal is on
-- NOT: Takes in one input wire and outputs the inverse power signal (output wire is on if input wire is off, and vice versa)
+- AND: Takes in two input wires and outputs a power signal if both input wires are on <br>
+![AND gate](/AND.png)
+- OR: Takes in two input wires and outputs a power signal if at least one input wire is on <br>
+![OR gate](/Or.png)
+- XOR: Takes in two input wires and outputs a power signal if only one input signal is on <br>
+![XOR gate](/XOR.png)
+- NOT: Takes in one input wire and outputs the inverse power signal (output wire is on if input wire is off, and vice versa) <br>
+![NOT gate](/NOT.png)
 
 Use the X icon to delete any placed objects. Use the R icon to reset the grid.
 
