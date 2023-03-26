@@ -1,0 +1,1 @@
+gamebox.py is developed by Professor Luther Tychonievich from the University of Virginia, provided under the public domain. More details of the license is provided in the source code of gamebox.py
